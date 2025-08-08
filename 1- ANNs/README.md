@@ -3,7 +3,7 @@
 
 Aşağıda, ANNs çalışmasının bir görsel çıktısı bulunmaktadır:
 
-![ANN Output](ANNs/ann_output.png)
+![ANN Output](1- ANNs/ann_output.png)
 
 ---
 
