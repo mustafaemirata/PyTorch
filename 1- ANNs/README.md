@@ -2,7 +2,7 @@
 
 Aşağıda, ANNs çalışmasının bir görsel çıktısı bulunmaktadır:
 
-![ANN Output](1-ANNs/ann_output.png)
+![ANN Output](https://raw.githubusercontent.com/mustafaemirata/PyTorch/main/1-%20ANNs/ann_output.png)
 
 ---
 
